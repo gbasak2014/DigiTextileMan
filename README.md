@@ -32,3 +32,5 @@ Above directory are configurable through application settings.
 1. SampleDesign: Sample design created by Textile Designer using designer.
 
 2. SampleMotif: Sample motifs created by Textile designer using MotifCreator.
+
+
