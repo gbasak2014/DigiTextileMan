@@ -34,3 +34,16 @@ Above directory are configurable through application settings.
 2. SampleMotif: Sample motifs created by Textile designer using MotifCreator.
 
 
+
+# Helpful links
+
+1. How application works:
+https://www.youtube.com/watch?v=zAUxl-XB14Y
+
+2. Sample design: 
+https://www.youtube.com/watch?v=kgjwaelaBa8
+
+3. Textile manufacture procedure: 
+http://youtu.be/vbA8zNfCpGA
+
+
