@@ -1,9 +1,9 @@
 # DigiTextileMan
 Standalone desktop application for designing the product of Jacquard Loom Industry. The package contains below three application.
 
-1. DigiTm-MotifCreator: Main application in the package. Early version of this application was developed in 2004 - 2005 which has been redesigned in 2014. The application is used to create motif for jacquard loom product and then compile that motive to generate readable code for punching board and 24-bit bitmap image.
+1. DigiTm-MotifCreator: Main application in the package. Early version of this application was developed in 2004 - 2005 which has been redesigned in 2014. The application is used to create motif for jacquard loom product and then compile that motive to generate readable code for punching board and the motif can be saved as 24-bit bitmap image.
 
-2. DigiTm-Designer: This application is used to design jacquard loom product using the motif created in MotifCreator to see how the product will look.
+2. DigiTm-Designer: This application is used to design jacquard loom product using the motif created in MotifCreator to see how the product will look with combination of different color and motifs.
 
 3. DigiTm-PatternCreator: This is used to create weaving pattern which can be used in MotifCreator and Designer.
 
