@@ -38,10 +38,10 @@ Above directory are configurable through application settings.
 # Helpful links
 
 1. How application works:
-https://www.youtube.com/watch?v=zAUxl-XB14Y
+https://youtu.be/zAUxl-XB14Y
 
 2. Sample design: 
-https://www.youtube.com/watch?v=kgjwaelaBa8
+https://youtu.be/kgjwaelaBa8
 
 3. Textile manufacture procedure: 
 http://youtu.be/vbA8zNfCpGA
