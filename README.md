@@ -7,6 +7,9 @@ Standalone desktop application for designing the product of Jacquard Loom Indust
 
 3. DigiTm-PatternCreator: This is used to create weaving pattern which can be used in MotifCreator and Designer.
 
+## Sample Design
+<img src="SampleDesign/myDesign001.jpg">
+
 # How to used the application.
 
 1. "Download zip"
